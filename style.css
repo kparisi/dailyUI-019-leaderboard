@@ -111,7 +111,7 @@ button {
 
 .exit:hover {
     color: #4141bb;
-    opacity: 0;
+    opacity: 0.1;
 }
 
 .continue {
