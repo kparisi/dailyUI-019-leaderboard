@@ -62,7 +62,7 @@ li::before {
 }
 
 .name {
-    margin-right: 0 auto 0 1rem;
+    margin: 0 auto 0 1rem;
 }
 
 li:nth-of-type(odd){
